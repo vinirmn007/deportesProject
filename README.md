@@ -1,7 +1,6 @@
 **PROGRAMACION ORIENTADA A OBJETOS**  
 **NOMBRE:** Alexis Roman  
 **CICLO:** Segundo  
-
 **FECHA:** 25/07/2024  
 
 **DIAGRAMA UML:**  

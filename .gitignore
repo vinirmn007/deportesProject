@@ -1,0 +1,29 @@
+# Ignorar directorios de caché
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Ignorar archivos de migración
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos de entorno virtual
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Ignorar archivos temporales de editores 
+*.swp
+*.swo
+*.swn
+*~
+.*.sw?
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de configuración de IDEs 
+.idea/
+.vscode/
